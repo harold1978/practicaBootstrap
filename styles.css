@@ -1,0 +1,23 @@
+/* Estilo para el encabezado */
+header {
+  background: url("assets/images/banner.jpg") no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+
+/* Estilo para los títulos */
+h1,
+h2 {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+
+/* Espaciado y estilo de los párrafos */
+p {
+  font-size: 1.2em;
+}
+
+/* Espaciado para las imágenes de la galería */
+#galeria .col-md-4 {
+  margin-bottom: 20px;
+}
